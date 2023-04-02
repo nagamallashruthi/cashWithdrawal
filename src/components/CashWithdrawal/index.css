@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg {
+  background-color: #150b3e;
+  padding: 20px;
+  border-radius: 10px;
+}
+.btn {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: #c7d2fe;
+  border: none;
+  margin-right: 40px;
+  font-family: 'roboto';
+  font-size: 20px;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
+.top {
+  display: flex;
+}
+.bal {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #585076;
+}
+.top1 {
+  display: flex;
+  justify-content: space-between;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+}
